@@ -1,0 +1,20 @@
+1) 3 Najlepsze sprzedane produkty w skali roku 2014 przez Handlowców. AWC Logo Cap, Patch Kit/8Patches oraz Water Bottle - 30 oz. są najlepszymi produktami sprzedanami w 2014. Musimy wyróżnić tutaj sprzedawców o ID 276, 277 i 289.
+
+
+
+2) Ilość sprzedaży w skali wszystkich miesiecy roku 2014. Najlepsze miesiące to Marzec, Maj oraz Czerwiec.
+
+
+3) Różnica sprzedaży produktów między rokiem 2013 a 2014. Widzimy że rok 2014 był słabszy w kwesti sprzedaży wyświetlonych produktów.
+
+
+
+4) W skali 4 lat największą sprzedaż osiągnął rok 2013 i jest to ok. 130tys. sprzedanych produktów. Rok 2011 był jednak najbardziej niekorzystny bo sprzedaż wachała się ok. 13k.
+
+
+
+5) Produkt AWC Log Cap został sprzedany w roku 2013 i 3 kwartale najwięcej razy. Następnie nagły spadek tego produktu w 2014 w 3 kwartale poniżej 100 a dodatkowo w 4 całkowicie sprzedaż zniknęła.
+
+
+
+6) Handlowy w skali roku 2014 sprzedali dość sporo produktów. Największą sprzedaż wyciągneli tutaj sprzedawcy o ID 276(Powyżej 4700) i 289(ok. 5000). Handlowcy 285 i 287 sprzedali w skali całego roku najmniej produktów bo poniżej 300 produktów. Czym może być to skutkowane?
